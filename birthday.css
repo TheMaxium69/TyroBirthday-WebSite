@@ -347,7 +347,7 @@ body .options .option .label .icon {
   height: 40px;
   border-radius: 100%;
   background-color: white;
-  color: var(--defaultBackground);
+  color: #0c79d9;
 }
 body .options .option .label .info {
   display: flex;
